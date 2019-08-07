@@ -2,30 +2,52 @@
 
 }
 .mjHeader__main{
+    text-align: center
 
 }
 .careerHeader{
+    text-align: center
 
 }
+.splashPageHeader__Main{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: .2%;
+    margin: 20%
+}
+/* above code will style the headers for all header elements */
 .careerFlex{
 
 }
+/* above code is used for flexbox on career info section */
 .careerInfo{
 
 }
 .careerInfo__intro{
-
+text-align: center
 }
 .careerInfo__skill{
-
+text-align: center
 }
 .careerInfo__res{
+text-align: center
+}
+/* above code is used for style fonts and size on the career info section */
+.imagesContainer__Flex{
+    justify-content: space-around,center;
+    flex-flow: column;
 
 }
-.imgContainer{
+.image{display: block;
+    margin: auto;
+    align-content: center;
+    padding-bottom: 5%
 
 }
-.img{
+#splashPageBody{
+    background-image: url(http://unrealitymag.com/wp-content/uploads/2010/05/476051.gif)
+}
 
 .flex{
 display:flex;
