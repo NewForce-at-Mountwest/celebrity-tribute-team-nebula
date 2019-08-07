@@ -1,0 +1,13 @@
+.flex{
+display:flex;
+justify-content:center;
+background-color: black;
+
+
+}
+.navLink{
+text-decoration:none;
+margin:1em;
+padding:5em;
+color: white;
+}
