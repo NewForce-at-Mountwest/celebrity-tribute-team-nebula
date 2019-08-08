@@ -89,3 +89,33 @@ margin:1em;
 padding:5em;
 color: white;
 }
+.newsflex{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    background-image:linear-gradient(to right, white 0%, black 100%);
+
+
+}
+ h1{
+    display:flex;
+    justify-content:center;
+    
+  
+}
+.divlink{
+    
+   margin:1em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to right, #b8b2b2 0%, black 100%);background: -webkit-linear-gradient(#ebe7e7, black);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;font-size: 03em
+   
+}
+body{
+    font-family:cursive;
+}
+header > h1{
+    color:black;
+}
+.image{height:30vh;width:30vw;}
