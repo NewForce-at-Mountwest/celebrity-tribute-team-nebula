@@ -1,63 +1,81 @@
-h1{
-    color: black;
-    display: flex;
-    border: 1px;
-    justify-content: center;
+.mjHeader{
+
 }
+.mjHeader__main{
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    text-align: center;
+    color: white
 
+}
+.careerHeader{
+    text-align: center;
+    background-image: linear-gradient(to left, #434343 0%, black 100%);
+    color:white
 
+}
+.splashPageHeader__Main{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: .2%;
+    margin: 20%
+}
+/* above code will style the headers for all header elements */
+.careerBody{
+   background:  linear-gradient(to left,
+    #868383,
+    black 100%
+  ) no-repeat;
 
-.summaryflex1{
-    display: flex;
-    justify-content: center;
-border: 1px;
-border-style: solid;
-align-items: center;
-flex-flow: flex-wrap;
-background-color: black;
-margin: 20%;
-padding: .9%;
+}
+.careerFlex{
+
+}
+/* above code is used for flexbox on career info section */
+.careerInfo{
+
+}
+.careerInfo__intro{
+    background:  linear-gradient(to right,
+    #b1abab,
+    black 100%
+  ) no-repeat;
 text-align: center;
-color: white;
-}
-
-
-.summaryflex2{
-    display: flex;
-    justify-content: center;
-border: 1px;
-border-style: solid;
-background-color: black;
-margin: 20%;
-padding: .9%;
-text-align: center;
-color: white;
+background-image: linear-gradient(to right, #b8b2b2 0%, black 100%);background: -webkit-linear-gradient(#ebe7e7, black);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;font-size: 03em
 
 }
+.careerInfo__skill{
+text-align: center
+}
+.careerInfo__res{
+text-align: center
+}
+/* above code is used for style fonts and size on the career info section */
+.imagesContainer__Flex{
+    justify-content: space-around,center;
+    flex-flow: column;
 
-.summaryflex3{
-    display: flex;
+}
+.image{display: block;
+    margin: auto;
+    align-content: center;
+    padding-bottom: 5%;
 
-border: 1px;
-border-style: solid;
-background-color: black;
-margin: 20%;
-padding: .9%;
-text-align: center;
-color: white;
+}
+#splashPageBody{
+    background:
+    radial-gradient(black 3px, transparent 4px),
+    radial-gradient(black 3px, transparent 4px),
+    linear-gradient(#fff 4px, transparent 0),
+    linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),
+    linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),
+    #fff;
+    background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+    background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
 }
 
-.summaryflex4{
-    display: flex;
-    justify-content: center;
-border: 1px;
-border-style: solid;
-background-color: black;
-text-align: center;
-margin: 20%;
-padding: .9;
-color: white;
-}
 .flex{
 display:flex;
 justify-content:center;
