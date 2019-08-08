@@ -10,7 +10,9 @@
 .careerHeader{
     text-align: center;
     background-image: linear-gradient(to left, #434343 0%, black 100%);
-    color:white
+    color:white;
+    font-family: 'Farro', sans-serif;
+    font-size: 2em
 
 }
 .splashPageHeader__Main{
