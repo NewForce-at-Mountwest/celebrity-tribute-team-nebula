@@ -327,10 +327,11 @@ header > h1{
   border-style: solid;
   background-image: linear-gradient(to left, #434343 0%, black 100%);
   margin: 15%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;}
   
 
-}
+
+
 
 
 
@@ -403,17 +404,8 @@ color: white;
 font-family: Arial, Helvetica, sans-serif;
 }
 
-background:  linear-gradient(to right,
-   #b1abab,
-   purple 100%
- ) no-repeat;
-text-align: center;
-background-image: linear-gradient(to right, #b8b2b2 0%, purple 100%);background: -webkit-linear-gradient(#ebe7e7, );
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;font-size: 03em;
-font-family: 'Farro', sans-serif;
 
-background:  linear-gradient(to right,
+.psummary{background:  linear-gradient(to right,
    #b1abab,
    purple 100%
  ) no-repeat;
@@ -421,4 +413,15 @@ text-align: center;
 background-image: linear-gradient(to right, #b8b2b2 0%, purple 100%);background: -webkit-linear-gradient(#ebe7e7, );
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;font-size: 03em;
-font-family: 'Farro', sans-serif;
+font-family: 'Farro', sans-serif;}
+
+.psummary{background:  linear-gradient(to right,
+   #b1abab,
+   purple 100%
+ ) no-repeat;
+text-align: center;
+background-image: linear-gradient(to right, #b8b2b2 0%, purple 100%);background: -webkit-linear-gradient(#ebe7e7, );
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;font-size: 03em;
+font-family: 'Farro', sans-serif;}
+
