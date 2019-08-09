@@ -313,3 +313,115 @@ header > h1{
     color:black;
 }
 .image{height:30vh;width:30vw;}
+
+.summarybod{
+  background-image: url(https://downloops.com/wp-content/uploads/edd/2016/11/Snowy3BlackBG-Gently_Falling_Snow_Motion_Background_Video_Loop_Sample2.jpg);
+}
+
+.summaryh1 {
+  color: white;
+  display: flex;
+  border: 3px;
+  justify-content: center;
+  border: 1px;
+  border-style: solid;
+  background-image: linear-gradient(to left, #434343 0%, black 100%);
+  margin: 15%;
+  font-family: Arial, Helvetica, sans-serif;}
+  
+
+
+
+
+
+
+.summaryflex1{
+  display: flex;
+  justify-content: center;
+border: 1px;
+border-style: solid;
+align-items: center;
+flex-flow: flex-wrap;
+background-image: linear-gradient(to right, #434343, black);
+margin: 15%;
+padding: .9%;
+text-align: center;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.summaryflex2{
+  display: flex;
+  justify-content: center;
+border: 1px;
+border-style: solid;
+background-image: linear-gradient(to left, #434343 0%, black 100%);
+margin: 15%;
+padding: .9%;
+text-align: center;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.summaryflex3{
+  display: flex;
+ 
+border: 1px;
+border-style: solid;
+background-image: linear-gradient(to right, #434343, black);
+margin: 15%;
+padding: .9%;
+text-align: center;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.summaryflex4{
+  display: flex;
+  justify-content: center;
+border: 1px;
+border-style: solid;
+background-image: linear-gradient(to left, #434343 0%, black 100%);
+text-align: center;
+margin: 15%;
+padding: .9;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+.flex{
+display:flex;
+justify-content:center;
+background-color: black;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.navLink{
+text-decoration:none;
+margin:1em;
+padding:5em;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.psummary{background:  linear-gradient(to right,
+   #b1abab,
+   purple 100%
+ ) no-repeat;
+text-align: center;
+background-image: linear-gradient(to right, #b8b2b2 0%, purple 100%);background: -webkit-linear-gradient(#ebe7e7, );
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;font-size: 03em;
+font-family: 'Farro', sans-serif;}
+
+.psummary{background:  linear-gradient(to right,
+   #b1abab,
+   purple 100%
+ ) no-repeat;
+text-align: center;
+background-image: linear-gradient(to right, #b8b2b2 0%, purple 100%);background: -webkit-linear-gradient(#ebe7e7, );
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;font-size: 03em;
+font-family: 'Farro', sans-serif;}
+
