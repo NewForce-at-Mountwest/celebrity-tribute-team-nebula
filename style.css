@@ -273,13 +273,14 @@ a {
 display:flex;
 justify-content:center;
 background-color: black;
+flex-wrap: wrap;
 
 
 }
 .navLink{
 text-decoration:none;
 margin:1em;
-padding:5em;
+padding:3em;
 color: white;
 }
 .newsflex{
@@ -312,3 +313,4 @@ header > h1{
     color:black;
 }
 .image{height:30vh;width:30vw;}
+
